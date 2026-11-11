@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "806023681548",
+    "project_id": "zx-ff-tour-com",
+    "storage_bucket": "zx-ff-tour-com.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806023681548:android:aa61ebc557d5a373f94029",
+        "android_client_info": {
+          "package_name": "com.zx.fftour"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTNQhtVgN0gTUxvQxOj8lLjW29Fpk72Sk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
